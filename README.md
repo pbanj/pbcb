@@ -5,7 +5,7 @@ A small board for adding usb-c to any 5V device properly
 - There are resistor pads on both sides of the PCB to allow you to move them out of the way if need be(only use 2 resistors total, see example pictures)  
 
 - **Order a board thickness of 0.8mm or smaller if your fab allows. Remember, the thinner the board is, the easier it will be to fit in things.**  
-- [Download](https://github.com/pbanj/USB-C-Everything/blob/main/USB-C%20Everything.zip)  
+- [Download](https://github.com/pbanj/USB-C-Everything/blob/main/USB-C%20Everything.zip?raw=true)  
 - [Order from Oshpark](https://oshpark.com/shared_projects/IqXttbLq)  
 - [Oshwlab/EasyEDA](https://oshwlab.com/pbanj/usbc-all-the-things)  
 - [USB-C Ports](https://a.aliexpress.com/_mrkukGI)  
