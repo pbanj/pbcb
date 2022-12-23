@@ -5,7 +5,7 @@ A small board for adding usb-c to any 5V device properly
 - There are resistor pads on both sides of the PCB to allow you to move them out of the way if need be(only use 2 resistors total, see example pictures)
 - [Download](https://github.com/pbanj/USB-C-Everything/blob/main/USB-C%20Everything.zip)
 - [Order from Oshpark](https://oshpark.com/shared_projects/k5mAT5kC)
-
+- [Oshwlab/EasyEDA](https://oshwlab.com/pbanj/usbc-all-the-things)
 
 Pictures
 ![image](https://user-images.githubusercontent.com/17306233/209293541-a2a7e75b-6b8b-4ac6-bdfd-49d3a7cbe7b8.png)
