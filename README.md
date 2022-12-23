@@ -6,6 +6,9 @@ A small board for adding usb-c to any 5V device properly
 - [Download](https://github.com/pbanj/USB-C-Everything/blob/main/USB-C%20Everything.zip)
 - [Order from Oshpark](https://oshpark.com/shared_projects/k5mAT5kC)
 - [Oshwlab/EasyEDA](https://oshwlab.com/pbanj/usbc-all-the-things)
+- [USB-C Ports](https://a.aliexpress.com/_mrkukGI)
+
+
 
 Pictures
 ![image](https://user-images.githubusercontent.com/17306233/209293541-a2a7e75b-6b8b-4ac6-bdfd-49d3a7cbe7b8.png)
