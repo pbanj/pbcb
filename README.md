@@ -3,7 +3,7 @@ A small board for adding usb-c to any 5V device properly
 
 - The board is short in the front to help the port stick through thicker plastic.
 - There are resistor pads on both sides of the PCB to allow you to move them out of the way if need be(only use 2 resistors total, see example pictures)
-
+- [Download](https://github.com/pbanj/USB-C-Everything/blob/main/USB-C%20Everything.zip)
 
 
 
