@@ -6,12 +6,12 @@ Small boards for adding usb-c to any 5V device properly
 - It's no bigger than the port itself.  
 - Can be printed small enough the resistors can face the port itself instead of sticking off the back.  
 - Through hole port for strength, keeping the entire thing small, allow for one sided assembly of the resistors so you dont have to solder those on yourself, makes it more noob friendly.  
-- has large copper areas to help prevent pad burnoff, making it more noob friendly to put together/use  
+- Has large copper areas to help prevent pad burnoff, making it more noob friendly to put together/use  
 - Use a max board thickness of 0.8mm.  
 
 - [Download](https://github.com/pbanj/pbcb/raw/main/The%20pbcb.zip)
-- [Order from OSH Park](https://oshpark.com/shared_projects/e9DyghlC)
-- [Port](https://www.lcsc.com/product-detail/_Yuandi-_C2689839.html). For the resistor you can use any 5.1kΩ.  
+- [Order from OSH Park](https://oshpark.com/shared_projects/PYuhZojf)
+- [Port](https://www.lcsc.com/product-detail/_Yuandi-_C2689839.html). For the resistor you can use any 5.1kΩ 402 resistor.  
 - BOM and Pick and Place files are provided
 
 **Pictures**  
@@ -46,7 +46,7 @@ Small boards for adding usb-c to any 5V device properly
 - [Download](https://github.com/pbanj/pbcb/raw/main/The%20pbcb%20Surface%20Mount%20Ver.zip)  
 - [Order from OSH Park](https://oshpark.com/shared_projects/IqXttbLq)  
 - [Oshwlab/EasyEDA](https://oshwlab.com/pbanj/usbc-all-the-things)  
-- [USB-C Ports](https://a.aliexpress.com/_mrkukGI)  
+- [USB-C Ports](https://a.aliexpress.com/_mrkukGI). For the resistor you can use any 5.1kΩ 402 resistor.   
 
 **Pictures**  
 
@@ -57,5 +57,3 @@ Small boards for adding usb-c to any 5V device properly
 ![image](https://user-images.githubusercontent.com/17306233/209297996-01a18d60-047c-490a-b9e7-fd4dde0d301e.png)  
 
 ![image](https://user-images.githubusercontent.com/17306233/209408002-1a4238ae-6cd0-4c46-93dc-03be46f73707.png)  
-
-
