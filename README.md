@@ -30,7 +30,11 @@ Small boards for adding usb-c to any 5V device properly
 
 ![image](https://user-images.githubusercontent.com/17306233/209747013-2a6181eb-3755-441a-8f9c-e7337cdb1de0.png)  
 
+**If you print with a board thickness of 0.7mm you can use the pads on the top of the board and have them on the same side as the port**   
 
+![image](https://user-images.githubusercontent.com/17306233/209750837-680fe8ae-5b7b-4f0e-8a04-4e5082d35264.png)  
+
+![image](https://user-images.githubusercontent.com/17306233/209750861-307ad4c8-f484-4c41-9fb5-67a7ca2e0a1d.png)
 
 
 
