@@ -1,10 +1,10 @@
 # The pbcb  
-Small boards for adding usb-c to any 5V device properly  
+Small boards for adding USB-C to any 5V device properly  
 
 **The pbcb**  
-- This boards small. *how small is it?* So small I had to put multiple so it'd be big enough for pcb fabs to make it.
+- This board's small. *how small is it?* So small I had to put multiple so it'd be big enough for pcb fabs to make it.
 - It's no bigger than the port itself.  
-- Can be printed small enough the resistors can face the port itself instead of sticking off the back.  
+- The resistors face the port itself instead of sticking off the back.  
 - Through hole port for strength, keeping the entire thing small, allow for one sided assembly of the resistors so you dont have to solder those on yourself, makes it more noob friendly.  
 - Has large copper areas to help prevent pad burnoff, making it more noob friendly to put together/use  
 - Use a max board thickness of 0.8mm.  
@@ -42,10 +42,13 @@ Small boards for adding usb-c to any 5V device properly
 
 **Pictures**  
 
-![image](https://user-images.githubusercontent.com/17306233/209408559-34973114-5b14-4a06-a46f-8324a5f89451.png)  
+![image](https://user-images.githubusercontent.com/17306233/213314654-8a9f9c3c-f322-41b4-b647-3cb5bf733c09.png)  
 
-![image](https://user-images.githubusercontent.com/17306233/209408449-67fb0d59-3934-473e-ab88-763083dc7f34.png)  
+![image](https://user-images.githubusercontent.com/17306233/213314699-cd63fbaa-b9e6-48ee-a779-da8c4c9eeb1c.png)
 
-![image](https://user-images.githubusercontent.com/17306233/209297996-01a18d60-047c-490a-b9e7-fd4dde0d301e.png)  
+![image](https://user-images.githubusercontent.com/17306233/213314752-11096abc-7021-4bd3-84f4-6723e8037ed0.png)  
 
-![image](https://user-images.githubusercontent.com/17306233/209408002-1a4238ae-6cd0-4c46-93dc-03be46f73707.png)  
+![image](https://user-images.githubusercontent.com/17306233/213314803-6a4cf2ad-dd44-41a6-a720-4bb5e9bd584c.png)  
+
+![image](https://user-images.githubusercontent.com/17306233/213314836-100d841c-a207-422d-a816-e5dcd318193c.png)
+
