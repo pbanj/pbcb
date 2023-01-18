@@ -16,9 +16,9 @@ Small boards for adding usb-c to any 5V device properly
 
 **Pictures**  
 
-![image](https://cdn.discordapp.com/attachments/179314431010799616/1065032500155518986/PXL_20230117_171535559.jpg)  
+![image](https://user-images.githubusercontent.com/17306233/213066329-d621c4e2-4a4a-4c03-8e37-f3bb458ea95d.png)  
 
-![image](https://cdn.discordapp.com/attachments/179314431010799616/1065032500931473458/PXL_20230117_171527745.jpg)  
+![image](https://user-images.githubusercontent.com/17306233/213066357-0ecba34b-d6b3-496a-b827-963584bd396d.png) 
 
 ![image](https://user-images.githubusercontent.com/17306233/209750837-680fe8ae-5b7b-4f0e-8a04-4e5082d35264.png)  
 
