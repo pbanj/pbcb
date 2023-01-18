@@ -16,21 +16,9 @@ Small boards for adding usb-c to any 5V device properly
 
 **Pictures**  
 
-![image](https://user-images.githubusercontent.com/17306233/209746258-dd871e38-ea41-4686-921a-d8244c51a784.png)  
+![image](https://cdn.discordapp.com/attachments/179314431010799616/1065032500155518986/PXL_20230117_171535559.jpg)  
 
-![image](https://user-images.githubusercontent.com/17306233/209746280-dcc10f51-d538-4278-9b00-c73977e16f99.png)  
-
-![image](https://user-images.githubusercontent.com/17306233/209746333-20680ab2-a0f7-4b41-a429-5c6889f7d9a3.png)  
-
-![image](https://user-images.githubusercontent.com/17306233/209746411-788748cb-10f4-4603-999a-671b310a3e58.png)  
-
-![image](https://user-images.githubusercontent.com/17306233/209746925-fe171a86-baf8-432d-a3cb-d0760670cd1e.png)  
-
-![image](https://user-images.githubusercontent.com/17306233/209746966-a2d2273d-f54d-4f66-bf89-fa793125b845.png)  
-
-![image](https://user-images.githubusercontent.com/17306233/209747013-2a6181eb-3755-441a-8f9c-e7337cdb1de0.png)  
-
-**If you print with a board thickness of 0.7mm you can use the pads on the top of the board and have them on the same side as the port**   
+![image](https://cdn.discordapp.com/attachments/179314431010799616/1065032500931473458/PXL_20230117_171527745.jpg)  
 
 ![image](https://user-images.githubusercontent.com/17306233/209750837-680fe8ae-5b7b-4f0e-8a04-4e5082d35264.png)  
 
