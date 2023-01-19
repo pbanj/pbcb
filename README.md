@@ -10,7 +10,7 @@ Small boards for adding USB-C to any 5V device properly
 - Use a max board thickness of 0.8mm.  
 
 - [Download](https://github.com/pbanj/pbcb/raw/main/The%20pbcb.zip)
-- [Order from OSH Park](https://oshpark.com/shared_projects/rg1dgV4L)
+- [Order from OSH Park](https://oshpark.com/shared_projects/LfEZBSaj)
 - [Port](https://www.lcsc.com/product-detail/_Yuandi-_C2689839.html). For the resistor you can use any 5.1kΩ 402 resistor.  
 - BOM and Pick and Place files are provided
 
