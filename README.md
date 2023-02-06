@@ -1,18 +1,21 @@
 # The pbcb  
 Small boards for adding USB-C to any 5V device properly  
+- the EasyEDS json file is provided to make it easier for you to make your own edits.
 
-**The pbcb**  
+
+**The pbcb Power**  
 - This board's small. *how small is it?* So small I had to put multiple so it'd be big enough for pcb fabs to make it.
 - It's no bigger than the port itself.  
 - The resistors face the port itself instead of sticking off the back.  
 - Through hole port for strength, keeping the entire thing small, allow for one sided assembly of the resistors so you dont have to solder those on yourself, makes it more noob friendly.  
-- Has large copper areas to help prevent pad burnoff, making it more noob friendly to put together/use  
+- Has large copper areas to help prevent pad burn-off, making it more noob friendly to put together/use  
 - Use a max board thickness of 0.8mm.  
 
 - [Download](https://github.com/pbanj/pbcb/raw/main/The%20pbcb.zip)
-- [Order from OSH Park](https://oshpark.com/shared_projects/LfEZBSaj)
+- [Order from OSH Park](https://oshpark.com/shared_projects/f7lJkjNo)
 - [Port](https://www.lcsc.com/product-detail/_Yuandi-_C2689839.html). For the resistor you can use any 5.1kΩ 402 resistor.  
-- BOM and Pick and Place files are provided
+- BOM and Pick and Place files are provided, The pick and place is set up for JLCPCB. 
+
 
 **Pictures**  
 
@@ -29,8 +32,7 @@ Small boards for adding USB-C to any 5V device properly
 
 
 
-
-# The pbcb Surface mount  
+# The pbcb Power Surface mount  
 - The board is short in the front to help the port stick through thicker plastic.
 - There's resistor pads on both sides of the PCB to allow you to move them out of the way if need be(only use 2 resistors total, see example pictures)  
 
