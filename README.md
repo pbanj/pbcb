@@ -31,7 +31,6 @@ Small boards for adding USB-C to any 5V device properly
 
 
 
-
 # The pbcb Power Surface mount  
 - The board is short in the front to help the port stick through thicker plastic.
 - There's resistor pads on both sides of the PCB to allow you to move them out of the way if need be(only use 2 resistors total, see example pictures)  
