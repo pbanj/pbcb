@@ -11,7 +11,7 @@ Small boards for adding USB-C to any 5V device properly
 - Has large copper areas to help prevent pad burn-off, making it more noob friendly to put together/use  
 - Use a max board thickness of 0.8mm.  
 
-- [Download](https://github.com/pbanj/pbcb/raw/main/The%20pbcb.zip)
+- [Download](https://github.com/pbanj/pbcb/blob/main/The%20pbcb%20Power.zip)
 - [Order from OSH Park](https://oshpark.com/shared_projects/f7lJkjNo)
 - [Port](https://www.lcsc.com/product-detail/_Yuandi-_C2689839.html). For the resistor you can use any 5.1kΩ 402 resistor.  
 - BOM and Pick and Place files are provided, The pick and place is set up for JLCPCB. 
@@ -35,7 +35,7 @@ Small boards for adding USB-C to any 5V device properly
 - There's resistor pads on both sides of the PCB to allow you to move them out of the way if need be(only use 2 resistors total, see example pictures)  
 
 - **Order a board thickness of 0.8mm or smaller if your fab allows. Remember, the thinner the board is the easier it'll be to fit in things.**  
-- [Download](https://github.com/pbanj/pbcb/raw/main/The%20pbcb%20Surface%20Mount%20Ver.zip)  
+- [Download](https://github.com/pbanj/pbcb/blob/main/The%20pbcb%20Power%20SMD.zip)  
 - [Order from OSH Park](https://oshpark.com/shared_projects/IqXttbLq)  
 - [Oshwlab/EasyEDA](https://oshwlab.com/pbanj/usbc-all-the-things)  
 - [USB-C Ports](https://a.aliexpress.com/_mrkukGI). For the resistor you can use any 5.1kΩ 402 resistor.   
